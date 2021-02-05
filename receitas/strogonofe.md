@@ -1,6 +1,6 @@
-# Strogonoff de Frango
+# Strogonoff de Frango **chiken
 
-## Ingredientes - Strogonoff de frango simples
+## ### Ingredientes - Strogonoff de frango simples
 
 - 1 quilo de peito de frango sem pele
 - 1 tablete de caldo de galinha
